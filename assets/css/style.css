@@ -588,6 +588,14 @@ nav {
     .right-container img {
         left: 10px;
     }
+
+    .left-container-arrow {
+        display: none;
+    }
+
+    .right-container-arrow {
+        display: none;
+    }
 }
 
 
